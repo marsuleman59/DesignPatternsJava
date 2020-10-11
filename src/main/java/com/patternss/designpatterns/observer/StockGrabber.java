@@ -1,4 +1,4 @@
-package com.patternss.designpatterns.oberver;
+package com.patternss.designpatterns.observer;
 
 import java.util.ArrayList;
 import java.util.List;

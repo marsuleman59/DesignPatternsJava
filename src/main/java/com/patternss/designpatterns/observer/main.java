@@ -1,4 +1,4 @@
-package com.patternss.designpatterns.oberver;
+package com.patternss.designpatterns.observer;
 
 public class main {
     public static void main(String[] args) {

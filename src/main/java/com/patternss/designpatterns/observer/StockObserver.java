@@ -1,4 +1,4 @@
-package com.patternss.designpatterns.oberver;
+package com.patternss.designpatterns.observer;
 
 
 public class StockObserver implements Observer {
