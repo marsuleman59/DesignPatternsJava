@@ -1,0 +1,1 @@
+Each folder is named as a pattern, open it and run the main class. (class name is Main as well)
