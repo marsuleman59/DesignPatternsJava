@@ -4,7 +4,7 @@ import com.patternss.designpatterns.comander.actions.TurnTVOff;
 import com.patternss.designpatterns.comander.actions.TurnTVOn;
 import com.patternss.designpatterns.comander.actions.TurnTVVolumeUp;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         ElectronicDevice device = TVRemote.getDevice();

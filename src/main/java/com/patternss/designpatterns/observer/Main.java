@@ -1,6 +1,6 @@
 package com.patternss.designpatterns.observer;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         StockGrabber stockMarket = new StockGrabber();

@@ -1,6 +1,6 @@
 package com.patternss.designpatterns.strategy;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         ShoppingCart shoppingCart = new ShoppingCart();
